@@ -1,0 +1,17 @@
+website URL:
+https://discovermaterials.co.uk/resource/bottle-can-or-coffee-cup/
+
+youtube playlist of walkthrough videos (individually embedded within relevant parts of the website):
+https://www.youtube.com/playlist?list=PLyl3ubsSP6pUkBdTephBtqL7UfIFfGQ_Z
+
+written guides to support operation and demonstraion of the project (available from the website):
+https://discovermaterials.co.uk/app/uploads/2025/02/00-Setting-up-the-Demonstration-Hardware_Guide.pdf
+https://discovermaterials.co.uk/app/uploads/2025/02/01-Getting-the-System-Up-and-Running_Guide.pdf
+https://discovermaterials.co.uk/app/uploads/2025/02/02-How-to-Use-the-Project-Controls-to-Identify-Objects_Guide.pdf
+https://discovermaterials.co.uk/app/uploads/2025/02/03-Investigation-of-the-Code_Guide.pdf
+https://discovermaterials.co.uk/app/uploads/2025/02/04-Improving-the-Performance-for-New-Objects_Guide.pdf
+
+additional supporting resources (including electronic copy of the printed booklet (available from the website):
+https://discovermaterials.co.uk/app/uploads/2025/02/MMSC_BCCC_Glossary.pdf
+https://discovermaterials.co.uk/app/uploads/2025/02/MMSC_BCCC_eBooklet.pdf
+https://discovermaterials.co.uk/app/uploads/2025/02/MMSC_BCCC_Risk-Assessment.pdf
