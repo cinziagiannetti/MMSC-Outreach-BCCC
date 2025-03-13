@@ -40,5 +40,12 @@ datasets of the iamges are available in
 on github
 
 or the 7z arxives on zenodo
+
+the saved trained models
+BCCC_A_model.pth
+BCCC_B_model.pth
+WWGC_model.pth
+
+are 43MB and too large for the github repository and so can be found in the associated zenodo repository
  
 Professor C. Giannetti would like to acknowledge the support of the EPSRC (EP/V061798/1) in this Materials Made Smarter Project.
