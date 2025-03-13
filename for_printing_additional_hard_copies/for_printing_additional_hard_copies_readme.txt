@@ -9,5 +9,7 @@ https://discovermaterials.co.uk/resource/bottle-can-or-coffee-cup/
 at original development the demonstration of the project at events included an A0 poster and 500+ A5 booklets
 
 the files provided in this folder can be used to reprint these hard-copy resources.
+
+The poster file in github repository is at 300dpi. A 600dpi version is in the associated zenodo repository.
  
 Professor C. Giannetti would like to acknowledge the support of the EPSRC (EP/V061798/1) in this Materials Made Smarter Project.
